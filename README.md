@@ -18,6 +18,7 @@ Here are some ideas to get you started: -->
     * MERN Stack 
     * Python
     * Data Science and ML fundamentals
+    
 - 📫 How to reach me: 
     * Connect with me on [LinkedIn](https://www.linkedin.com/in/akash-ambashankar/)
     * Send me an [Email](mailto:akashambashankar@gmail.com)
