@@ -15,12 +15,12 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Data Science and ML
 - 👯 I’m looking to collaborate on any projects invovling Web Applications, Data Science, or anything interesting
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akashamba&show_icons=true&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</span>
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashamba&layout=compact" />
-</a>
+</span>
 
 - 💬 Ask me about 
     * Web Development
