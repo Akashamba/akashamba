@@ -1,11 +1,14 @@
 
 
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Akashamba&color=000080&style=flat-square)
+
 
 <!-- 
 **Akashamba/akashamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+
+
 
 - 🔭 I’m currently working on MERN Stack projects, as well as Data Science and Machine Learning projects
 - 💬 I'm currently an Undergraduate Research Assistant @solarillion
@@ -26,4 +29,7 @@ Here are some ideas to get you started: -->
     * Visit my [Website](https://akashamba.netlify.app/)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I'm also learning about Transfer Learning
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashamba)
+
 
