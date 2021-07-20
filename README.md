@@ -31,6 +31,7 @@ Here are some ideas to get you started: -->
     
 - 📫 How to reach me: 
     * Connect with me on [LinkedIn](https://www.linkedin.com/in/akash-ambashankar/)
+    * Find me on [Twitter](https://twitter.com/akashamba238)
     * Send me an [Email](mailto:akashambashankar@gmail.com)
     * Visit my [Website](https://akashamba.netlify.app/)
     
