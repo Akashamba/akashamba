@@ -16,10 +16,10 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on any projects invovling Web Applications, Data Science, or anything interesting
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akashamba&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashamba&layout=compact" />
 </a>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashamba&layout=compact) -->
