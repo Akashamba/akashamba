@@ -16,10 +16,10 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on any projects invovling Web Applications, Data Science, or anything interesting
 
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akashamba&show_icons=true&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akashamba&show_icons=true&theme=nightowl" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashamba&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashamba&layout=compact&theme=nightowl" />
 </span>
 
 - Languages and Tools I use
