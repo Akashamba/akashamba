@@ -1,6 +1,6 @@
 
 
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Akashamba&color=000080&style=flat-square)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Akashamba&color=000080&style=flat-square&label=Profile+Views)
 
 
 <!-- 
@@ -31,5 +31,8 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I'm also learning about Transfer Learning
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashamba&show_icons=true&theme=buefy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashamba)
+
 
 
