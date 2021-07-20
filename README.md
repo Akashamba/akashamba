@@ -22,8 +22,6 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashamba&layout=compact" />
 </a>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashamba&layout=compact) -->
-
 - 💬 Ask me about 
     * Web Development
     * MERN Stack 
@@ -37,8 +35,6 @@ Here are some ideas to get you started: -->
     * Visit my [Website](https://akashamba.netlify.app/)
     
 - ⚡ Fun fact: I'm also learning about Transfer Learning
-
-<!-- ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashamba&show_icons=true&theme=buefy) -->
 
 
 
