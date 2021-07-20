@@ -15,7 +15,14 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Data Science and ML
 - 👯 I’m looking to collaborate on any projects invovling Web Applications, Data Science, or anything interesting
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashamba&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashamba&layout=compact) -->
 
 - 💬 Ask me about 
     * Web Development
@@ -31,7 +38,7 @@ Here are some ideas to get you started: -->
     
 - ⚡ Fun fact: I'm also learning about Transfer Learning
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashamba&show_icons=true&theme=buefy)
+<!-- ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashamba&show_icons=true&theme=buefy) -->
 
 
 
