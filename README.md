@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 
 
 - 🔭 I’m currently working on MERN Stack projects, as well as Data Science and Machine Learning projects
-- 💬 I'm currently an Undergraduate Research Assistant @solarillion
+- 💬 I'm currently an Undergraduate Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/)
 - 🌱 I’m currently learning Data Science and ML
 - 👯 I’m looking to collaborate on any projects invovling Web Applications, Data Science, or anything interesting
 
