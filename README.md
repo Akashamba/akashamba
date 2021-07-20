@@ -30,6 +30,6 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I'm also learning about Transfer Learning
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashamba)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashamba&show_icons=true&theme=buefy)
 
 
