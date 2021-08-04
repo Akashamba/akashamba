@@ -1,6 +1,6 @@
 
 
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Akashamba&color=000080&style=flat-square&label=Profile+Views)
+## Hi there 👋 ![](https://komarev.com/ghpvc/?username=Akashamba&color=000080&style=flat-square&label=Profile+Views)
 
 
 <!-- 
@@ -10,10 +10,10 @@ Here are some ideas to get you started: -->
 
 
 
-- 🔭 I’m currently working on MERN Stack projects, as well as Data Science and Machine Learning projects
-- 💬 I'm currently an Undergraduate Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/)
-- 🌱 I’m currently learning Data Science and ML
-- 👯 I’m looking to collaborate on any projects invovling Web Applications, Data Science, or anything interesting
+- 🔭 I’m currently working on MERN Stack projects, as well as Data Science and Machine Learning projects.
+- 💬 I'm currently an Undergraduate Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/).
+- 🌱 I’m currently learning Data Science and ML.
+- 👯 I’m looking to collaborate on Web Applications, or any projects invovling Data Science and Machine Learning.
 
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akashamba&show_icons=true&theme=nightowl" />
@@ -22,7 +22,7 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashamba&layout=compact&theme=nightowl" />
 </span>
 
-- Languages and Tools I use
+- ### Languages and Tools I use
   <p>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="40" style="vertical-align:top; margin:4px"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" height="40" style="vertical-align:top; margin:4px"/>
@@ -40,13 +40,13 @@ Here are some ideas to get you started: -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   </p>
     
-- 📫 How to reach me: 
+- ### 📫 How to reach me: 
     * Connect with me on [LinkedIn](https://www.linkedin.com/in/akash-ambashankar/)
     * Find me on [Twitter](https://twitter.com/akashamba238)
     * Send me an [Email](mailto:akashambashankar@gmail.com)
     * Visit my [Website](https://akashamba.netlify.app/)
     
-- ⚡ Fun fact: I'm also learning about Transfer Learning
+- ⚡ Fun fact: I'm a huge Harry Potter fan!
 
 
 
