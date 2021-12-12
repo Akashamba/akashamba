@@ -31,7 +31,7 @@ Here are some ideas to get you started: -->
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="40" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://icons8.com/icon/IoYmHUxgvrFB/postman-is-the-only-complete-api-development-environment" height="40" style="vertical-align:top; margin:4px"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" height="40" style="vertical-align:top; margin:4px"/>
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png" height="40" style="vertical-align:top; margin:4px"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter" height="40" style="vertical-align:top; margin:4px">
