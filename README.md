@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Ambashankar</h1>
-<h3 align="center">A Computer Science Stuednt, Engineer and Enthusiast from India</h3>
+<h3 align="center">A Computer Science Student, Engineer and Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashamba&label=Profile%20views&color=0e75b6&style=flat" alt="akashamba" /> </p>
 
@@ -29,7 +29,6 @@
 <a href="https://www.hackerrank.com/akashambashankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashambashankar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akashamba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashamba" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@akashamba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akashamba" height="30" width="40" /></a>
-<a href="https://discord.gg/0138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0138" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
