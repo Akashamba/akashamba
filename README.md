@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashamba&label=Profile%20views&color=0e75b6&style=flat" alt="akashamba" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashamba" alt="akashamba" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Kaggle Competitions**
