@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Python, UI/UX**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N1aLrPgl2ZYUlmD4_ZBJiNQ3GK1wyLyI/view](https://drive.google.com/file/d/1N1aLrPgl2ZYUlmD4_ZBJiNQ3GK1wyLyI/view)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1N1aLrPgl2ZYUlmD4_ZBJiNQ3GK1wyLyI/view)
 
 - ⚡ Fun fact **I also love public speaking**
 <br><br>
