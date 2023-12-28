@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Ambashankar</h1>
-<h3 align="center">A passionate developer who loves programming and problem solving</h3>
+<h3 align="center">A developer who loves programming and problem solving</h3>
 
-- 🌱 I’m currently learning **Redux, React Native, Next JS**
-
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
-
-- 👨‍💻 All my projects are available at [https://akashamba.netlify.app](https://akashamba.netlify.app)
-
-- 💬 Ask me about **React, Python, UI/UX**
-
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1N1aLrPgl2ZYUlmD4_ZBJiNQ3GK1wyLyI/view)
-
-- ⚡ Fun fact **I also love public speaking**
+ 
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
